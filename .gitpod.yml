@@ -2,5 +2,4 @@ tasks:
   - init: echo 'co.pvplite:dartbuild' 
     command: echo 'PvPLite Mobile Stack'
 
-image: flutter:latest
-
+image: gitpod/workspace-flutter:latest
